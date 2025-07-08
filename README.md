@@ -8,6 +8,9 @@ This project is a solution to the Player Re-Identification assignment provided b
 
 ![image](https://github.com/user-attachments/assets/e0a562b6-738c-411c-a949-c2860910dd25)
 
+##Outputs:-
+https://drive.google.com/drive/folders/1Wh_LD9UPSY3APWbK_J1RklPJAThk9hEv?usp=drive_link
+
 ## 🔧 Setup Instructions
 
 ### 1. Clone the repository
