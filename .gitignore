@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+old-ultralytics-env/
+
+# Python
+*.pyc
+__pycache__/
+
+# Environment and secrets
+.env
+
+# Model files and outputs
+models/
+output/
+data/
